@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <Module>
-  <ModulePrefs title="Hel World!" />
-  <Content type="html">
-    <![CDATA[
+  <ModulePrefs title="Hello World!" />
+  <Content type="html"><![CDATA[
       Hello, world!
     ]]>
   </Content>
