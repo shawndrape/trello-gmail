@@ -3,11 +3,7 @@
   <ModulePrefs title="Trello" />
   <Content type="html"><![CDATA[
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
-  <script src="https://api.trello.com/1/client.js?key=725f2366421a65b14d62adcfa1243315"></script>
-  <script>
-  	var proxiedUrl = gadgets.io.getProxiedUrl('https://api.trello.com/1/client.js?key=725f2366421a65b14d62adcfa1243315',null);
-  	document.write(proxiedUrl);
-  </script>
+  <script src="https://api.trello.com/1/client.js?key=yourkeyhere"></script>
       <div id="loggedout">
     <a id="connectLink" href="#">Connect To Trello</a>
 </div>
